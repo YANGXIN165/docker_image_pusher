@@ -1,1 +1,2 @@
-busybox:latest
+alpine:latest
+nginx:alpine
