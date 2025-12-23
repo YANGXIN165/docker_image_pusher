@@ -1,1 +1,1 @@
-registry:3
+httpd:2
