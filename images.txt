@@ -1,1 +1,1 @@
-node:lts-alpine
+cadvisor:v0.55.1
