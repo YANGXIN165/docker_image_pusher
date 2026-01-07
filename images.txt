@@ -1,1 +1,1 @@
-cadvisor:v0.55.1
+dockersamples/visualizer
