@@ -1,1 +1,1 @@
-grafana:latest
+docker pull redis:8
